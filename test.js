@@ -5,7 +5,15 @@ let arr = [12, "Darshan"];
 function hello() {
     console.log("Hello");
 }
-function getData(obj) {
-    obj.gender = "male";
-}
-getData({});
+// interface
+// user interface
+// interface User{
+//     name : string,
+//     age : number,
+//     password : string,
+//     gender: string
+// }
+// function getData(obj : User){
+//     obj.gender = "male"
+// }
+// getData({});

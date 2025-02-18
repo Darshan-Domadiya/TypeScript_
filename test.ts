@@ -11,20 +11,20 @@ function hello():void{
 // interface
 
 // user interface
-interface User{
-    name : string,
-    age : number,
-    password : string,
-    gender: string
-}
+// interface User{
+//     name : string,
+//     age : number,
+//     password : string,
+//     gender: string
+// }
 
-function getData(obj : User){
-    obj.gender = "male"
-}
+// function getData(obj : User){
+//     obj.gender = "male"
+// }
 
 
 
-getData({});
+// getData({});
 
 
 
